@@ -1,0 +1,13 @@
+body{
+    background-color: blue;
+}
+.main{
+    height: 25vh;
+    width: 25vw;
+    background-color: yellow;
+    margin: auto;
+    margin-top: 12%;
+    padding-top: 50px;
+    padding-left: 40px;
+    border-radius: 10px;
+}

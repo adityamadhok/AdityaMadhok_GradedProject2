@@ -1,0 +1,20 @@
+.header{
+    background-color: aqua;
+    height:15vh;
+    text-align: center;
+}
+.main-page{
+    display: flex;
+}
+.left{
+    width: 16%;
+    background-color: pink;
+    margin: 5px;
+    padding: 2px;
+    
+}
+.right{
+    width: 70%;
+    /* background-color: gray;*/
+} 
+
